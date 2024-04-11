@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-👾 Estudo com foco em desenvolvimento mobile<br>🎓 Acadêmica de Sistemas da Informação <br>📍 Recife-PE<br> <br>📫  alanacamaralins@gmail.com<br>
+👾 Estudo com foco em desenvolvimento <br>🎓 Acadêmica de Sistemas da Informação <br>📍 Recife-PE<br> <br>📫  alanacamaralins@gmail.com<br>
 
 
 ## 🌐 Socials:
